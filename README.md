@@ -3,3 +3,7 @@ Cumulos: Notebook para graficar la muestra de 10 CA en  en coordenadas galáctic
 
 
 Comparaciones: Notebook para visualizar en un gráfico los diferentes valores de edad según distintos autores.
+
+
+Graficador: Notebook para reemplazar el análisis con Topcat.
+
