@@ -6,4 +6,6 @@ Comparaciones: Notebook para visualizar en un gráfico los diferentes valores de
 
 
 Graficador: Notebook para reemplazar el análisis con Topcat.
+Notebooks con nombres de objetos (10 CA) son copias del graficador modificadas con los parámetros y valores/datos de cada cúmulo en particular.
+
 
